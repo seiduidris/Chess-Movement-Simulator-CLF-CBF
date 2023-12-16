@@ -42,6 +42,8 @@ Idris Seidu
 2. Modify the `moving_piece_notation` and `goal_notation` in the script to set up the desired movement simulation.
 3. Run the script to visualize the chess piece movements and interactions on the board.
 
+![Chess Simulation](Simulations/chess_simulation_1.gif), ![Chess Simulation](Simulations/chess_simulation_2.gif)
+
 For more detailed instructions and examples, refer to the provided documentation within the script.
 
 
